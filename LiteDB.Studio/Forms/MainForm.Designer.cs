@@ -723,7 +723,7 @@
             this.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.Name = "MainForm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "LiteDB Studio";
+            this.Text = "LiteDB Studio - SAHNEE BUILD";
             this.KeyDown += new System.Windows.Forms.KeyEventHandler(this.MainForm_KeyDown);
             this.splitMain.Panel1.ResumeLayout(false);
             this.splitMain.Panel2.ResumeLayout(false);

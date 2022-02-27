@@ -11,7 +11,7 @@ namespace LiteDB.Studio
 {
     class TaskData
     {
-        public const int RESULT_LIMIT = 1000;
+        public const int RESULT_LIMIT = int.MaxValue;
 
         public int Id { get; set; }
         public bool Executing { get; set; } = false;
